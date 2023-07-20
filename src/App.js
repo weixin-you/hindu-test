@@ -11,9 +11,9 @@ import CharitiesSupported from './pages/CharitiesSupported'
 function App() {
   return  (
 
-    <BrowserRouter>
+    <BrowserRouter  basename={process.env.PUBLIC_URL}>
       <Routes>
-        <Route path="/" element={<Home />} />
+        <Route exact path="/" element={<Home />} />
         <Route path="/donate" element={<Donate />} />
         <Route path="/ongoing-projects" element={<OngoingProjects />} />
         <Route path="/past-projects" element={<PastProjects />} />
