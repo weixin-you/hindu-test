@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/hindu-test/static/css/main.2ff6ceaf.css",
-    "main.js": "/hindu-test/static/js/main.a74fc8d3.js",
+    "main.js": "/hindu-test/static/js/main.204da3db.js",
     "static/media/playchess.jpg": "/hindu-test/static/media/playchess.4a5e140f34d51a37fdea.jpg",
     "static/media/HSOCDonationForm.pdf": "/hindu-test/static/media/HSOCDonationForm.ebca71da308071cfc7cb.pdf",
     "static/media/project-past.jpg": "/hindu-test/static/media/project-past.8a7e5617f213ee956bf5.jpg",
@@ -53,10 +53,10 @@
     "static/media/real.jpg": "/hindu-test/static/media/real.9d6432217fcaac95fff5.jpg",
     "index.html": "/hindu-test/index.html",
     "main.2ff6ceaf.css.map": "/hindu-test/static/css/main.2ff6ceaf.css.map",
-    "main.a74fc8d3.js.map": "/hindu-test/static/js/main.a74fc8d3.js.map"
+    "main.204da3db.js.map": "/hindu-test/static/js/main.204da3db.js.map"
   },
   "entrypoints": [
     "static/css/main.2ff6ceaf.css",
-    "static/js/main.a74fc8d3.js"
+    "static/js/main.204da3db.js"
   ]
 }
